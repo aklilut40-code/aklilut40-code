@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0ea5b1"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="#0f172a"/>
+  <g fill="url(#g)" font-family="Verdana, Geneva, sans-serif" font-weight="700" font-size="36">
+    <text x="60" y="110">Aklilu — Full‑Stack Engineer</text>
+  </g>
+  <g fill="#94a3b8" font-family="Verdana, Geneva, sans-serif" font-size="14">
+    <text x="60" y="140">Node.js · Python · PHP · React · Java · C++</text>
+  </g>
+</svg>
