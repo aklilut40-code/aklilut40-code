@@ -87,7 +87,7 @@ Tech: JavaScript · React · Python · C++
 
 ## 📫 Contact
 - GitHub: https://github.com/aklilut40-code
-- Email: aklilu.tesfay@gmail.com
+- Email: aklilut40@gmail.com
 
 ---
 
