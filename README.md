@@ -1,94 +1,103 @@
-# Hi, I’m Aklilu Tesfay 👋
+<table>
+  <tr>
+    <td valign="top" width="32%">
+      <img src="https://github.com/aklilut40-code.png" width="210" height="210" alt="Aklilu Tesfay" style="border-radius: 50%; border: 4px solid #2d3748; display: block; margin: 0 auto;" />
+      <br/>
+      <h3 align="center">Aklilu Tesfay</h3>
+      <p align="center"><i>Full-Stack Developer</i></p>
+
+      <p align="center">
+        <a href="https://github.com/aklilut40-code">
+          <img src="https://img.shields.io/badge/GitHub-aklilut40-code-181717?style=for-the-badge&logo=github" alt="GitHub" />
+        </a>
+      </p>
+
+      <p align="center">
+        <a href="mailto:aklilu.tesfay@gmail.com">
+          <img src="https://img.shields.io/badge/Email-aklilu.tesfay%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </p>
+
+      <p align="center">
+        <a href="https://github.com/aklilut40-code">
+          <img src="https://img.shields.io/badge/Follow-%20Profile-0EA5E9?style=flat&logo=github&logoColor=white" alt="Follow" />
+        </a>
+      </p>
+
+      <p>
+        <strong>Software Engineer</strong> | Passionate about building secure, scalable, and practical applications.
+      </p>
+
+      <p>
+        I build software that combines clean user experience with solid backend engineering.
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Location-Ethiopia-0ea5e9?style=flat-square" alt="Location" />
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Focus-Full-stack%20Development-8b5cf6?style=flat-square" alt="Focus" />
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Status-Available%20for%20work-22c55e?style=flat-square" alt="Status" />
+      </p>
+    </td>
+
+    <td valign="top" style="padding-left: 18px;">
+      <h2>About Me</h2>
+      <p>
+        I’m Aklilu Tesfay, a software engineer with experience in both frontend and backend development.
+        I enjoy building products that are useful, efficient, and easy to use.
+      </p>
+
+      <h2>Socials</h2>
+      <p>
+        <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/badge/GitHub-@aklilut40-code-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="mailto:aklilu.tesfay@gmail.com"><img src="https://img.shields.io/badge/Email-aklilu.tesfay%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+
+      <h2>Tech Stack</h2>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Advanced%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      </p>
+
+      <h2>Featured Projects</h2>
+      <ul>
+        <li><strong>Marketplace</strong> — a full-stack marketplace platform focused on product listing, usability, and business workflows.</li>
+        <li><strong>Anti‑Gravity</strong> — an experimental interactive project that explores creative digital experiences and engineering ideas.</li>
+      </ul>
+
+      <h2>GitHub Stats</h2>
+      <p>
+        <a href="https://github.com/aklilut40-code">
+          <img src="https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        </a>
+      </p>
+
+      <p>
+        <a href="https://github.com/aklilut40-code">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="banner" width="100%" />
+  <strong>Building useful software and practical solutions.</strong>
 </p>
-
-<p align="center">
-  <strong>Full‑Stack Engineer</strong> — building real products people use.
-</p>
-
-<p align="center">
-  Node.js · Python · PHP · React.js · JavaScript · Java · C++ · HTML · CSS
-</p>
-
-<p align="center">
-  <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/github/followers/aklilut40-code?label=Follow&style=social" alt="Follow"/></a>
-  <a href="mailto:aklilut40@gmail.com"><img src="https://img.shields.io/badge/Email-aklilut%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=aklilut40-code&color=0e75b6" alt="visits"/>
-</p>
-
----
-
-## 🚀 About
-I’m Aklilu (Aklilu Tesfay) — I turn product ideas into robust, maintainable full‑stack apps: marketplaces, APIs, and interactive experiences. I focus on shipping clean frontend UX and solid backend systems.
-
----
-
-## 🔥 Portfolio — Showcase
-
-<div align="center">
-
-[![Marketplace](./assets/marketplace.svg)](https://github.com/aklilut40-code/marketplace)
-
-**Marketplace**  
-A scalable marketplace connecting buyers & sellers with a clean UX, payments integration, and admin tools.  
-Tech: React · Node.js · PostgreSQL · Docker  
-[View repo »](https://github.com/aklilut40-code/marketplace)
-
-</div>
-
----
-
-<div align="center">
-
-[![Anti-Gravity](./assets/anti-gravity.svg)](https://github.com/aklilut40-code/anti-gravity)
-
-**Anti‑Gravity (experimental)**  
-An interactive/experimental project demonstrating simulation, visuals, and creative engineering.  
-Tech: JavaScript · React · Python · C++  
-[View repo »](https://github.com/aklilut40-code/anti-gravity)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="react"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="node"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="java"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="cpp"/>
-</p>
-
-- Frontend: React.js, JavaScript (ES6+), HTML5, CSS3
-- Backend: Node.js, Python, PHP, REST & GraphQL APIs
-- Languages: Java, Advanced Java, C++, JavaScript
-- Dev tools: Docker, CI/CD, testing, performance tuning
-
----
-
-## 📊 GitHub at-a-glance
-
-[![Aklilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&theme=radical&hide=contribs)](https://github.com/aklilut40-code)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&theme=radical)](https://github.com/aklilut40-code)
-
----
-
-## 💡 What I build
-- Marketplace & e‑commerce platforms
-- Backend systems and APIs
-- Interactive web apps and simulations
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/aklilut40-code
-- Email: aklilut40@gmail.com
-
----
-
-<p align="center">Thanks for stopping by — I build, I ship, I iterate. 🚀</p>
