@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/github/followers/aklilut40-code?label=Follow&style=social" alt="Follow"/></a>
-  <a href="mailto:aklilu.tesfay@gmail.com"><img src="https://img.shields.io/badge/Email-aklilu.tesfay%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  <a href="mailto:aklilut40@gmail.com"><img src="https://img.shields.io/badge/Email-aklilu.tesfay%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
   <img src="https://komarev.com/ghpvc/?username=aklilut40-code&color=0e75b6" alt="visits"/>
 </p>
 
