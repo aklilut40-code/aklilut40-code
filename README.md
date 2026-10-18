@@ -1,98 +1,94 @@
-# Hi, I’m Aklilu 👋
-> Full‑Stack Engineer — I build pragmatic, production-ready apps that people love to use.
+# Hi, I’m Aklilu Tesfay 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/aklilut40-code?label=follow&style=social)](https://github.com/aklilut40-code)
-[![Profile Visits](https://komarev.com/ghpvc/?username=aklilut40-code&color=0e75b6)](https://github.com/aklilut40-code)
+<p align="center">
+  <img src="./assets/banner.svg" alt="banner" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Full‑Stack Engineer</strong> — building real products people use.
+</p>
+
+<p align="center">
+  Node.js · Python · PHP · React.js · JavaScript · Java · C++ · HTML · CSS
+</p>
+
+<p align="center">
+  <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/github/followers/aklilut40-code?label=Follow&style=social" alt="Follow"/></a>
+  <a href="mailto:aklilu.tesfay@gmail.com"><img src="https://img.shields.io/badge/Email-aklilu.tesfay%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=aklilut40-code&color=0e75b6" alt="visits"/>
+</p>
+
+---
+
+## 🚀 About
+I’m Aklilu (Aklilu Tesfay) — I turn product ideas into robust, maintainable full‑stack apps: marketplaces, APIs, and interactive experiences. I focus on shipping clean frontend UX and solid backend systems.
+
+---
+
+## 🔥 Portfolio — Showcase
+
+<div align="center">
+
+[![Marketplace](./assets/marketplace.svg)](https://github.com/aklilut40-code/marketplace)
+
+**Marketplace**  
+A scalable marketplace connecting buyers & sellers with a clean UX, payments integration, and admin tools.  
+Tech: React · Node.js · PostgreSQL · Docker  
+[View repo »](https://github.com/aklilut40-code/marketplace)
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="banner" width="900" />
+
+[![Anti-Gravity](./assets/anti-gravity.svg)](https://github.com/aklilut40-code/anti-gravity)
+
+**Anti‑Gravity (experimental)**  
+An interactive/experimental project demonstrating simulation, visuals, and creative engineering.  
+Tech: JavaScript · React · Python · C++  
+[View repo »](https://github.com/aklilut40-code/anti-gravity)
+
 </div>
 
-## 🚀 Hi — I’m Aklilu
-Short, honest, memorable: I turn product ideas into robust full‑stack apps — marketplaces, APIs, and interactive experiences.
-
-*(If needed for formal purposes: Aklilu Tesfay)*
-
 ---
 
-## ✨ Quick Snapshot
-- Location: Ethiopia
-- Open to: freelance, collaboration, small teams
-- Focus: backend systems, APIs, and polished React frontends
+## 🛠️ Tech Stack
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="react"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="node"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="python"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="java"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="cpp"/>
+</p>
 
-## 🔥 Featured Projects
-(Click each card to explore the code or demo — replace links with live repos when ready.)
-
-### Marketplace — real-world e‑commerce platform
-A scalable marketplace connecting buyers and sellers with search, listings, and payments.
-- Tech: React · Node.js · PostgreSQL · Docker
-- Role: Full‑stack development — product, backend, frontend, deployment
-
-![Marketplace preview](./assets/marketplace.svg)
-
-[Explore the Marketplace →](https://github.com/aklilut40-code/marketplace)
-
----
-
-### Anti‑Gravity — experimental / interactive
-A creative project showcasing simulation, visuals, and engineering thinking.
-- Tech: JavaScript · React · Python · C++ (simulation)
-- Role: Prototype, experiment, and interactive UI
-
-![Anti‑Gravity preview](./assets/anti-gravity.svg)
-
-[Explore Anti‑Gravity →](https://github.com/aklilut40-code/anti-gravity)
-
----
-
-## 🛠 Core Skills
 - Frontend: React.js, JavaScript (ES6+), HTML5, CSS3
 - Backend: Node.js, Python, PHP, REST & GraphQL APIs
 - Languages: Java, Advanced Java, C++, JavaScript
-- Dev: Docker, CI/CD, testing, performance tuning
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="28" height="28"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="28" height="28"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="28" height="28"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="28" height="28"/>
-</div>
+- Dev tools: Docker, CI/CD, testing, performance tuning
 
 ---
 
-## 📊 GitHub At‑a‑Glance
+## 📊 GitHub at-a-glance
+
 [![Aklilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&theme=radical&hide=contribs)](https://github.com/aklilut40-code)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&theme=radical)](https://github.com/aklilut40-code)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=aklilut40-code&theme=react-dark&range=365)
-
 ---
 
-## 💡 What I enjoy building
-- Marketplace & e‑commerce flows (listings, search, payments)
-- Backend systems and APIs (scalable, well‑tested)
+## 💡 What I build
+- Marketplace & e‑commerce platforms
+- Backend systems and APIs
 - Interactive web apps and simulations
-- Developer tools & automation
 
 ---
 
 ## 📫 Contact
-- Email: aklilu.tesfay@gmail.com
 - GitHub: https://github.com/aklilut40-code
+- Email: aklilu.tesfay@gmail.com
 
 ---
 
-## 🛠 Notes & next steps
-1. Replace the project links with the actual repo URLs when your projects are pushed.
-2. Add real screenshots/GIFs into /assets and match filenames.
-3. Pin the best repos on your profile (Marketplace, Anti‑Gravity, any others).
-
-Thanks for trusting me to build the first version of your profile. If you want, I can now:
-- Replace the placeholder images with optimized screenshots/GIFs I generate,
-- Add a GitHub Pages one‑file portfolio and deploy it,
-- Or apply a premium visual skin (dark neon, minimal, or corporate).
+<p align="center">Thanks for stopping by — I build, I ship, I iterate. 🚀</p>
