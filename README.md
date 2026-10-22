@@ -1,172 +1,199 @@
- <div align="center">
+<!-- ==================== PROFILE BANNER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07545B,35:087F72,70:4B9B64,100:C5D94B&height=160&section=header&text=Aklilu%20Tesfay&fontSize=48&fontColor=FFFFFF&fontAlignY=48&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20FULL-STACK&descSize=13&descAlignY=75&animation=fadeIn" width="100%" alt="Aklilu Tesfay — Software Engineering"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0F766E,50:14B8A6,100:A3E635&text=Aklilu%20Tesfay&fontSize=48&fontColor=FFFFFF&fontAlignY=43&desc=Software%20Engineering%20%7C%20Full-Stack%20Development%20%7C%20Exploring%20AI&descSize=15&descAlignY=65&animation=fadeIn" width="100%" alt="Aklilu Tesfay profile banner"/>
 
 <p>
-  <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/badge/GITHUB-PROFILE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/></a>
-  <a href="https://antigravity-portfolio-fawn.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-176B60?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/aklilut40-code?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-789B48?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://github.com/aklilut40-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://antigravity-portfolio-fawn.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/aklilut40-code?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-14B8A6?style=for-the-badge&logo=git&logoColor=white" alt="Repositories"/>
+  </a>
 </p>
+
+### Building my future through technology, discipline, and continuous growth.
 
 </div>
 
-I'm a Software Engineering student at Mekelle University, passionate about building practical software, understanding how systems work, and turning ideas into useful technology.
+---
 
-My current focus is backend engineering and full-stack web development, with hands-on experience building projects using JavaScript, React, Node.js, Express, and MongoDB.
+<!-- ==================== ABOUT ME ==================== -->
 
-**My approach:** Understand the fundamentals. Build real projects. Improve continuously.
+## 👋 About Me
+
+I'm a **Software Engineering student at Mekelle University**, passionate about technology, innovation, and building useful solutions through code.
+
+My primary professional focus is software engineering and full-stack development. Beyond writing code, I'm enthusiastic about the possibilities of artificial intelligence, machine learning, and the technologies shaping our future.
+
+- 💻 **Software Development:** Building practical applications and strengthening my full-stack development skills.
+- 🤖 **AI & Machine Learning:** Exploring intelligent technologies and how they can solve real-world problems.
+- 🚀 **Innovation:** Curious about emerging technologies and the opportunities they create.
+- 💪 **Fitness & Bodybuilding:** Committed to physical fitness, building my physique, and developing discipline through consistent training.
+- 🎤 **Personal Growth:** Developing my communication and public-speaking skills while continuously learning.
+
+I see fitness as an important part of my personal development, not my primary professional direction. I may explore personal training in the future, while keeping software engineering at the center of my career.
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frontend
+
+<img src="https://skillicons.dev/icons?i=js,html,css,react,vite" alt="JavaScript, HTML, CSS, React, and Vite"/>
+
+### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, and MongoDB"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code, and Linux"/>
+
+</div>
+
+<p align="center">
+  <em>Continuously learning, building, and improving my skills.</em>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Marketplace</h3>
+### 🛒 Marketplace
 
-<p align="center">
-<a href="https://github.com/aklilut40-code/marketplace">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-176B60?style=for-the-badge&logo=github&logoColor=white" alt="Marketplace repository"/>
-</a>
-</p>
+**A full-stack e-commerce application**
 
-A full-stack marketplace application connecting a React frontend to a Node.js and Express API backed by MongoDB.
+A web application for browsing products and supporting essential online marketplace workflows.
 
 **Key features**
-- User authentication with JWT
-- Product management and image uploads
-- Shopping cart and order workflows
-- Reviews and database integration
-- REST API architecture
+- User registration and authentication
+- Product management
+- Product reviews
+- Shopping cart functionality
+- Order checkout
+- Product image uploads
 
-**Technology stack**
+**Technologies**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-222222?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<p><a href="https://minimarket-frontend.netlify.app">Live application</a> · <a href="https://github.com/aklilut40-code/marketplace">Source code</a></p>
+<p>
+  <a href="https://github.com/aklilut40-code/marketplace"><strong>View Repository →</strong></a>
+</p>
+
+<p>
+  <a href="https://minimarket-frontend.netlify.app"><strong>Live Demo →</strong></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Antigravity Portfolio</h3>
+### 🌐 Personal Portfolio
 
-<p align="center">
-<a href="https://github.com/aklilut40-code/antigravity-portfolio">
-<img src="https://img.shields.io/badge/EXPLORE-REPOSITORY-176B60?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository"/>
-</a>
-</p>
+**A personal portfolio website**
 
-A responsive personal portfolio website showcasing projects, developer learning roadmaps, and an interactive browser-based assistant.
+A responsive portfolio showcasing my work, interests, and learning journey, with interactive elements and animated visuals.
 
 **Key features**
-- Responsive portfolio interface
+- Project gallery
 - Animated visual elements
-- Downloadable learning resources
-- Interactive project gallery
-- Client-side assistant and contact interface
+- Downloadable learning roadmaps
+- Interactive rule-based assistant
+- Contact section
 
-**Technology stack**
+**Technologies**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<p><a href="https://antigravity-portfolio-fawn.vercel.app">Live portfolio</a> · <a href="https://github.com/aklilut40-code/antigravity-portfolio">Source code</a></p>
+<p>
+  <a href="https://github.com/aklilut40-code/antigravity-portfolio"><strong>View Repository →</strong></a>
+</p>
+
+<p>
+  <a href="https://antigravity-portfolio-fawn.vercel.app"><strong>Live Demo →</strong></a>
+</p>
 
 </td>
 </tr>
 </table>
 
----
-
-<h2 align="center">Technical Skills</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Backend & APIs**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express, MongoDB"/>
+<p align="center">
+  More projects and experiments are available in my
+  <a href="https://github.com/aklilut40-code?tab=repositories">GitHub repositories</a>.
 </p>
-
-Building REST APIs, implementing authentication, handling requests, and connecting applications to databases.
-
-</td>
-<td width="50%" valign="top">
-
-**Frontend Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="HTML, CSS, JavaScript, React, Vite"/>
-</p>
-
-Creating responsive interfaces and connecting frontend components to backend services.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Tools & Workflow**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="Git, GitHub, Linux, VS Code, Postman"/>
-</p>
-
-Version control, Linux development, API testing, debugging, and deployment workflows.
-
-</td>
-<td width="50%" valign="top">
-
-**Engineering Focus**
-
-- REST API design
-- Authentication and authorization
-- Database modeling
-- Full-stack integration
-- Debugging and deployment
-
-</td>
-</tr>
-</table>
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+## 🤖 Exploring the Future of Technology
+
+I'm particularly enthusiastic about how technology continues to evolve.
+
+Areas that interest me include:
+
+- **Artificial Intelligence:** Understanding how AI can assist people, improve workflows, and solve practical problems.
+- **Machine Learning:** Exploring how computers learn from data and make useful predictions.
+- **Intelligent Applications:** Discovering ways to combine software development with emerging AI capabilities.
+- **Continuous Innovation:** Staying curious about new tools, ideas, and technologies that could shape the future.
+
+My goal is to keep strengthening my software engineering fundamentals while gradually expanding my understanding of these fields.
+
+---
+
+## 💪 Beyond Technology
+
+I believe personal growth extends beyond professional skills.
+
+Physical fitness and bodybuilding are important parts of my life. Training teaches me patience, consistency, discipline, and resilience—qualities that are equally valuable when learning difficult concepts or developing software.
+
+I'm also interested in communication, public speaking, and the possibility of exploring personal training in the future.
+
+**My approach is simple:** improve my technical skills, take care of my body, stay curious, and keep becoming a better version of myself.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&theme=transparent&hide_border=true&title_color=0F8B78&icon_color=0F8B78&text_color=8A929D&rank_icon=github" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&theme=transparent&hide_border=true&title_color=0F8B78&text_color=8A929D" alt="Most-used languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most-used programming languages"/>
 
 </div>
 
 ---
 
-<h2 align="center">Beyond the Code</h2>
-
-I believe strong engineering comes from curiosity, discipline, and a willingness to keep learning.
-
-Outside software development, I'm interested in fitness, personal growth, reading, and improving my communication and public-speaking skills.
-
-My long-term goal is to become a skilled software engineer who builds useful, reliable technology and creates meaningful opportunities through innovation.
+## 🎯 My Philosophy
 
 <div align="center">
 
-**Learn with purpose. Build with discipline. Improve every day.**
+### Build with curiosity. Learn with discipline. Grow through consistency.
 
-<a href="https://github.com/aklilut40-code?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-176B60?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"/>
-</a>
+I want to become a software engineer who understands technology, builds meaningful solutions, and embraces the possibilities of the future.
+
+Every project is an opportunity to learn. Every challenge is an opportunity to improve. Every day is another chance to grow.
+
+**Technology is my craft. Continuous growth is my mindset.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=0:0F766E,100:A3E635&section=footer" width="100%" alt="Teal and lime footer"/>
+
+<sub>Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.</sub>
 
 </div>
