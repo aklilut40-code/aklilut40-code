@@ -1,85 +1,91 @@
-<!-- ===================== PROFILE BANNER ===================== -->
+<!-- =====================================================
+     AKLILU TESFAY — GITHUB PROFILE README
+     Software Engineering | AI | Machine Learning | Fitness
+     ===================================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D9488,100:A3E635&text=Aklilu%20Tesfay&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineering%20%7C%20AI%20%7C%20Building%20the%20Future&descAlignY=67&descSize=16" width="100%" alt="Aklilu Tesfay profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0F766E,50:14B8A6,100:A3E635&text=Aklilu%20Tesfay&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20TECHNOLOGY%20%7C%20GROWTH&descSize=14&descAlignY=65" width="100%" alt="Aklilu Tesfay profile banner" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/aklilut40-code">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://antigravity-portfolio-fawn.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/aklilut40-code?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-A3E635?style=for-the-badge&logo=github&logoColor=black" alt="Projects" />
-  </a>
+  <a href="https://github.com/aklilut40-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://antigravity-portfolio-fawn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/aklilut40-code?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-65A30D?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </div>
 
 <br />
 
-<!-- ===================== INTRODUCTION ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1300&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+software%2C+one+line+at+a+time+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Debugging+today%2C+deploying+tomorrow+%F0%9F%9A%80;Strong+mind.+Strong+body.+Continuous+growth+%F0%9F%92%AA" alt="Animated introduction" />
+</div>
 
-<h2 align="center">👋 Hello, World! I'm Aklilu.</h2>
+---
+
+<h2 align="center">👋 Hello, World!</h2>
 
 <p align="center">
-  <strong>Software Engineering Student | Full-Stack Developer in Progress | Technology Enthusiast</strong>
+  I'm a <strong>Software Engineering student at Mekelle University</strong>, passionate about building useful software, exploring emerging technologies, and turning ideas into practical solutions.
 </p>
 
 <p align="center">
-  I'm a Software Engineering student at Mekelle University, passionate about building useful software, solving real-world problems, and exploring the technologies shaping our future.
+  <em>Building my future through technology, discipline, and continuous growth.</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0D9488&center=true&vCenter=true&width=650&lines=Building+useful+software+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning+by+building+real+projects+%F0%9F%9A%80;Growing+through+discipline+%26+consistency+%F0%9F%92%AA" alt="Animated introduction" />
-</p>
+<!-- ================= ABOUT ME ================= -->
 
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2>🧭 About Me</h2>
+<h2>👨‍💻 About Me</h2>
 
 <table>
   <tr>
-    <td width="65%" valign="top">
+    <td width="68%" valign="top">
       <ul>
         <li>💻 <strong>Main focus:</strong> Software engineering and full-stack web development.</li>
-        <li>⚙️ <strong>Building with:</strong> JavaScript, React, Node.js, Express, and MongoDB.</li>
-        <li>🤖 <strong>Exploring:</strong> Artificial Intelligence, Machine Learning, and emerging technologies.</li>
-        <li>🧠 <strong>Curious about:</strong> How technology can solve problems and create new opportunities.</li>
-        <li>🎤 <strong>Growing in:</strong> Communication, public speaking, and continuous learning.</li>
-        <li>💪 <strong>Beyond tech:</strong> Physical fitness, bodybuilding, discipline, and self-improvement.</li>
+        <li>⚙️ <strong>Currently building with:</strong> JavaScript, React, Node.js, Express, and MongoDB.</li>
+        <li>🤖 <strong>Technology interests:</strong> Artificial Intelligence, Machine Learning, and the future of intelligent applications.</li>
+        <li>🚀 <strong>My approach:</strong> Learn by building real projects and solving real problems.</li>
+        <li>🎤 <strong>Personal growth:</strong> Developing communication and public-speaking skills.</li>
+        <li>💪 <strong>Outside technology:</strong> Physical fitness, bodybuilding, and self-improvement.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/127d79d7-e59d-4aa8-bd18-63b89c666d95" width="100%" alt="Animated bodybuilder and coder illustration" />
+    <td width="32%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="Animated programmer working at a computer" />
+      <br />
+      <sub><strong>Me debugging one tiny problem for three hours. 😂</strong></sub>
     </td>
   </tr>
 </table>
 
 <p>
-  Technology is my primary professional direction. I'm enthusiastic about AI, machine learning, and the possibilities new technologies bring. Outside coding, fitness and bodybuilding help me develop the discipline and consistency I bring to my work. I'm also open to exploring personal training as a future opportunity.
+  Technology is my primary professional direction. I'm excited by how AI and machine learning may change the way we work and solve problems. I also believe that discipline outside work matters: bodybuilding and fitness help me practise patience, consistency, and resilience.
 </p>
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ================= TECH STACK ================= -->
 
 <h2>🛠️ Technologies & Tools</h2>
 
-<h3>Languages and Development</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux&perline=6" alt="Technology skills" />
-</p>
-
-<h3>Areas of Interest</h3>
+<h3>💻 Development Stack</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-7C3AED?style=flat-square&logo=probot&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Learning-2563EB?style=flat-square&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Backend%20Development-Building-0D9488?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend development" />
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-Practicing-16A34A?style=flat-square&logo=react&logoColor=white" alt="Full-stack development" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,linux&perline=6" alt="Development technologies" />
 </p>
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<p>
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vite-61DAFB?style=flat-square&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="Database" />
+</p>
+
+<h3>🤖 Exploring the Future</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-Curious-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine_Learning-Learning-2563EB?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Emerging_Tech-Exploring-0D9488?style=for-the-badge&logo=futurelearn&logoColor=white" alt="Emerging technologies" />
+</p>
+
+---
+
+<!-- ================= FEATURED PROJECTS ================= -->
 
 <h2>🚀 Featured Projects</h2>
 
@@ -89,112 +95,146 @@
       <h3 align="center">🛒 Marketplace</h3>
       <p align="center">
         <a href="https://github.com/aklilut40-code/marketplace">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Marketplace repository" />
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github" alt="View marketplace source code" />
         </a>
       </p>
       <p>
-        A full-stack marketplace application built with React, Vite, Node.js, Express, and MongoDB. Features include authentication, product management, reviews, cart functionality, checkout, and image uploads.
+        A full-stack marketplace application built with React, Vite, Node.js, Express, and MongoDB.
       </p>
+      <p><strong>Features include:</strong></p>
+      <ul>
+        <li>User authentication</li>
+        <li>Product management</li>
+        <li>Reviews and shopping cart</li>
+        <li>Checkout and image uploads</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
       <p align="center">
-        <a href="https://minimarket-frontend.netlify.app">Live Demo</a>
+        <a href="https://minimarket-frontend.netlify.app">🌐 Live Demo</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🌌 Antigravity Portfolio</h3>
       <p align="center">
         <a href="https://github.com/aklilut40-code/antigravity-portfolio">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" alt="Portfolio repository" />
+          <img src="https://img.shields.io/badge/VIEW_SOURCE-181717?style=for-the-badge&logo=github" alt="View portfolio source code" />
         </a>
       </p>
       <p>
-        A personal portfolio built with HTML, CSS, and JavaScript, featuring animated visuals, a project gallery, downloadable learning roadmaps, and a rule-based interactive assistant.
+        A personal portfolio made with HTML, CSS, and JavaScript, featuring animated visuals, a project gallery, downloadable learning roadmaps, and an interactive rule-based assistant.
       </p>
+      <p><strong>Highlights include:</strong></p>
+      <ul>
+        <li>Animated visual design</li>
+        <li>Project showcase</li>
+        <li>Learning roadmaps</li>
+        <li>Interactive assistant</li>
+      </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
       </p>
       <p align="center">
-        <a href="https://antigravity-portfolio-fawn.vercel.app">Live Demo</a>
+        <a href="https://antigravity-portfolio-fawn.vercel.app">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
 </table>
 
-<!-- ===================== LEARNING JOURNEY ===================== -->
+---
+
+<!-- ================= LEARNING JOURNEY ================= -->
 
 <h2>🌱 What I'm Working Toward</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 As a Developer</h3>
+      <h3>💻 My Technology Journey</h3>
       <ul>
-        <li>Strengthening backend engineering and API design.</li>
-        <li>Building reliable applications connected to databases.</li>
+        <li>Strengthening backend development and API design.</li>
+        <li>Building secure, database-driven applications.</li>
         <li>Improving software architecture and problem-solving.</li>
-        <li>Exploring practical applications of AI and machine learning.</li>
+        <li>Exploring AI and machine learning step by step.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💪 As a Person</h3>
+      <h3>🧠 My Personal Growth</h3>
       <ul>
-        <li>Maintaining a consistent fitness routine.</li>
-        <li>Building discipline, resilience, and confidence.</li>
+        <li>Reading and learning consistently.</li>
         <li>Improving communication and public speaking.</li>
-        <li>Growing through reading and continuous self-improvement.</li>
+        <li>Maintaining a consistent fitness routine.</li>
+        <li>Developing patience, confidence, and discipline.</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ================= FITNESS — SEPARATE ANIMATION ================= -->
+
+<h2>💪 Beyond the Code: Fitness & Discipline</h2>
+
+<p>
+  Coding builds my problem-solving skills. Training builds my physical strength and discipline. Both remind me that meaningful progress comes from showing up consistently—even when the results take time.
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKN2Y5TsX7o7h0A/giphy.gif" width="300" alt="Animated fitness and workout GIF" />
+  <br />
+  <strong>When the code finally works and the gym playlist hits at the same time. 😂💪</strong>
+</div>
+
+<p align="center">
+  <em>Fitness is an important personal interest, while software engineering remains my primary career focus. I'm open to exploring personal training in the future.</em>
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aklilut40-code&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aklilut40-code&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=aklilut40-code&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</p>
+</div>
 
-<!-- ===================== PHILOSOPHY ===================== -->
+---
+
+<!-- ================= PHILOSOPHY ================= -->
 
 <h2 align="center">⚡ My Philosophy</h2>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760686-dcb02031-af46-4b9d-a6b1-9c367a379d9f.gif" width="300" alt="Animated creative and technology visual" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1800&color=0D9488&center=true&vCenter=true&width=650&lines=Stay+curious.+Keep+building.;Train+your+body.+Challenge+your+mind.;Progress+over+perfection.;Your+future+is+built+by+what+you+do+consistently." alt="Animated personal philosophy" />
+</div>
 
 <p align="center">
   <strong>Build with curiosity. Train with discipline. Grow through consistency.</strong>
 </p>
 
 <p align="center">
-  I'm working toward becoming a software engineer who understands technology, builds meaningful solutions, and stays curious about what's possible. My journey is about continuous growth—in code, in fitness, and in life.
-</p>
-
-<!-- ===================== PROFILE FOOTER ===================== -->
-
-<p align="center">
-  <a href="https://github.com/aklilut40-code">
-    <img src="https://img.shields.io/badge/Follow%20My%20Journey-181717?style=for-the-badge&logo=github" alt="Follow my GitHub journey" />
-  </a>
-</p>
-
-<p align="center">
-  <em>Thanks for visiting my profile! Let's keep learning, building, and growing. 🚀</em>
+  I'm working toward becoming a software engineer who builds meaningful solutions, understands technology, and keeps exploring what's possible.
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D9488,100:A3E635&section=footer" width="100%" alt="Teal and lime footer" />
+  <a href="https://github.com/aklilut40-code?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Projects-0D9488?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=85&color=0:0F766E,50:14B8A6,100:A3E635&section=footer" width="100%" alt="Profile footer" />
+  <p><em>Thanks for visiting my profile. Let's keep learning, building, and growing! 🚀</em></p>
 </div>
